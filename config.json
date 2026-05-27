@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "useruarse",
+        "uuid": 26817704,
+        "checksum": "dw6smf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
